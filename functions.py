@@ -2,6 +2,8 @@ import numpy as np
 from tensorflow import keras
 from keras import layers
 import os
+
+
 def train_save_digit_model():
     os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
     num_classes = 10

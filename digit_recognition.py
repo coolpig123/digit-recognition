@@ -48,8 +48,6 @@ while active:
             text_surface_3 = my_font.render(f'prediction is {np.argmax(prediction[0])}', False, (255, 255, 255))
 
 
-
-
     pygame.draw.rect(window, (0, 0, 255), (0, 0, 565, 5))
     pygame.draw.rect(window, (0, 0, 255), (0, 565, 565, 5))
     pygame.draw.rect(window, (0, 0, 255), (0, 0, 5, 570))
