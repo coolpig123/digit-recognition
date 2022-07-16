@@ -9,3 +9,4 @@ The purpose of this repository is to perform image recognition using Convolution
 ## how does it work?
 The dataset i used in order to perform training is the mnist dataset (http://yann.lecun.com/exdb/mnist). </br>
 the neural network architecture is constructed by 2 sets of 2D Convolutional layer and max pooling 2D. </br>
+Finally a dense layer to output the prediction.
