@@ -1,7 +1,5 @@
 # digit recognition
 The purpose of this repository is to perform image recognition using Convolutional neural network.
-![digit-recognition]()
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/89049656/179354066-33001634-483f-468c-85f9-598936248309.png" width="200" height="400" />
 ## dependencies
 1. python interpreter (https://www.python.org)
 2. open-cv (www.opencv.org)
