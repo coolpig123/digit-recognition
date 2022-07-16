@@ -1,0 +1,2 @@
+import functions
+functions.train_save_digit_model()
